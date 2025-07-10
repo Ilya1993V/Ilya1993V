@@ -1,1 +1,1 @@
-https://github.com/Ilya1993V/Ilya1993V/blob/gh-pages/cv.md
+https://ilya1993v.github.io/rsschool-cv/cv
